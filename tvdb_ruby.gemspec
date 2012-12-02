@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'tvdb_ruby'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2012-12-02'
   s.summary     = "The TVDB Ruby Gem"
   s.description = "Gem to easily use theTVDB.com open source database in Ruby"
