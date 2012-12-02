@@ -7,6 +7,8 @@ Let me know if you find any bugs or need more methods!
 
 This is my first gem, be nice :D
 
+[TVDB_Ruby on rubygems.org](https://rubygems.org/gems/tvdb_ruby/)
+
 Documentation
 -------------
 ### First install the gem
