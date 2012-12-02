@@ -1,11 +1,8 @@
 require 'httparty'
 
-API_KEY  = 'BA027FC13CC4F4A9'
-BASE_URL = 'http://www.thetvdb.com/api/'
+API_KEY  = '30EB2B37C19D9786'
 
 class TVDB_Ruby
-
-  ### Beginning of generic methods ###
 
   # Search series in the database
   def self.search_series(search)
