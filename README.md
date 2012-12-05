@@ -41,3 +41,10 @@ Get an episode from its air date
 ```ruby
 TVDB_Ruby.search_by_airdate(series_id, date)
 ```
+
+Todo
+----
++ More methods
++ Better usability/flexibility
++ Add user's API key (tvdb_ruby's API atm)
++ Write tests
